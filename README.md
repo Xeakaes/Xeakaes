@@ -1,14 +1,7 @@
 # Xeakaes
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xeakaes/Xeakaes/main/assets/header.svg" alt="Xeakaes header" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA%2FCuPy-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/Xeakaes/Xeakaes/main/assets/terminal.svg" alt="Xeakaes terminal intro" width="100%" />
 </p>
 
 ## Projects
