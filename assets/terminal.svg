@@ -61,7 +61,7 @@
     <text class="line l2" x="34" y="98" font-size="21" ><tspan class="hdr">Xeakaes</tspan><tspan class="out" font-size="15"> — Medical Student &amp; Hobbyist Developer</tspan></text>
 
     <text class="line l3" x="34" y="136"><tspan class="prompt">~ $ </tspan><tspan class="out">cat about.txt</tspan></text>
-    <text class="line l4" x="34" y="160" class="out"><tspan class="dim">&gt; </tspan><tspan class="out">Python, PyQt6, PyVista, CuPy &amp; Android — desktop and mobile tools</tspan></text>
+    <text class="line l4" x="34" y="160"><tspan class="dim">&gt; </tspan><tspan class="out">Python, PyQt6, PyVista, CuPy &amp; Android — desktop and mobile tools</tspan></text>
     <text class="line l5" x="34" y="182"><tspan class="dim">&gt; </tspan><tspan class="out">PC performance tuning — GPU undervolting, low-level Windows tweaks</tspan></text>
     <text class="line l6" x="34" y="204"><tspan class="dim">&gt; </tspan><tspan class="out">Drawn to computational/physics-heavy problems — CFD, GPU numerics</tspan></text>
 
