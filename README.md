@@ -10,14 +10,13 @@
 An Android app + Windows server that streams live PC hardware stats over Wi-Fi.
 - Custom dashboard with color palettes, edit mode (reorder / hide / pin / resize cards)
 - Live demo & docs: [xeakaes.github.io/PcHWmonitor](https://xeakaes.github.io/PcHWmonitor/)
-  
+
 ### 🌀 [AeroVision CFD](https://github.com/Xeakaes/AeroVision-CFD)
 A modular CFD wind tunnel simulation desktop app built with **PyQt6 + PyVista**.
 - Chorin projection-based incompressible Navier–Stokes solver
 - Immersed boundary masking (KDTree), Poisson matrix caching, adaptive solve intervals
 - LES/RANS turbulence models with GPU/CPU fallback via CuPy
 - ParaView-style postprocessing UI
-
 
 ## GitHub Stats
 
