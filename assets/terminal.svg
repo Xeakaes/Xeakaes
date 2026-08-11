@@ -1,4 +1,4 @@
-<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -45,8 +45,8 @@
     </style>
   </defs>
 
-  <rect width="900" height="480" rx="14" fill="url(#bg)"/>
-  <rect x="1" y="1" width="898" height="478" rx="13" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="900" height="500" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="498" rx="13" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- title bar -->
   <rect x="1" y="1" width="898" height="38" rx="13" fill="#161b22"/>
@@ -66,15 +66,15 @@
     <text class="line l6" x="34" y="204"><tspan class="dim">&gt; </tspan><tspan class="out">Drawn to computational/physics-heavy problems — CFD, GPU numerics</tspan></text>
 
     <text class="line l7" x="34" y="242"><tspan class="prompt">~ $ </tspan><tspan class="out">ls ./projects</tspan></text>
-    <text class="line l8" x="34" y="266"><tspan class="path">AeroVision-CFD/</tspan><tspan class="out">    </tspan><tspan class="path">PcHWmonitor/</tspan></text>
+    <text class="line l8" x="34" y="266"><tspan class="path">PcHWmonitor/</tspan><tspan class="out">    </tspan><tspan class="path">AeroVision-CFD/</tspan></text>
 
-    <text class="line l9" x="34" y="304"><tspan class="prompt">~ $ </tspan><tspan class="out">cat projects/AeroVision-CFD/README.md</tspan></text>
-    <text class="line l10" x="34" y="328"><tspan class="dim">&gt; </tspan><tspan class="out">Modular CFD wind tunnel sim (PyQt6 + PyVista) — Navier-Stokes solver,</tspan></text>
-    <text x="34" y="350" class="line l10"><tspan class="dim">&gt; </tspan><tspan class="out">LES/RANS turbulence models, GPU/CPU fallback via CuPy</tspan></text>
+    <text class="line l9" x="34" y="304"><tspan class="prompt">~ $ </tspan><tspan class="out">cat projects/PcHWmonitor/README.md</tspan></text>
+    <text class="line l10" x="34" y="328"><tspan class="dim">&gt; </tspan><tspan class="out">Android + Windows app streaming live PC hardware stats over Wi-Fi</tspan></text>
 
-    <text class="line l11" x="34" y="388"><tspan class="prompt">~ $ </tspan><tspan class="out">cat projects/PcHWmonitor/README.md</tspan></text>
-    <text class="line l12" x="34" y="412"><tspan class="dim">&gt; </tspan><tspan class="out">Android + Windows app streaming live PC hardware stats over Wi-Fi</tspan></text>
+    <text class="line l11" x="34" y="388"><tspan class="prompt">~ $ </tspan><tspan class="out">cat projects/AeroVision-CFD/README.md</tspan></text>
+    <text class="line l12" x="34" y="412"><tspan class="dim">&gt; </tspan><tspan class="out">Modular CFD wind tunnel sim (PyQt6 + PyVista) — Navier-Stokes solver,</tspan></text>
+    <text x="34" y="434" class="line l12"><tspan class="dim">&gt; </tspan><tspan class="out">LES/RANS turbulence models, GPU/CPU fallback via CuPy</tspan></text>
 
-    <text class="line l12" x="34" y="450"><tspan class="prompt">~ $ </tspan><tspan class="cursor out">▍</tspan></text>
+    <text class="line l12" x="34" y="462"><tspan class="prompt">~ $ </tspan><tspan class="cursor out">▍</tspan></text>
   </g>
 </svg>
