@@ -12,12 +12,13 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="59%" valign="top">
 <a href="https://github.com/Xeakaes/AeroVision-CFD">
   <img src="./assets/mod-02-aerovision.svg" alt="AeroVision CFD — modular wind-tunnel simulator with a Chorin projection Navier–Stokes solver, LES/RANS turbulence and CuPy GPU fallback. Python, PyQt6, PyVista. GPL-3.0. 6 stars." width="100%">
 </a>
 </td>
-<td width="40%" valign="top">
+<td width="2%"></td>
+<td width="39%" valign="top">
 <a href="https://github.com/Xeakaes/computer-use-for-all-agents">
   <img src="./assets/mod-03-computer-use.svg" alt="Computer Use for All Agents — live screen perception plus safety-gated mouse, keyboard and window control for any agent. Python, MCP. MIT." width="100%">
 </a>
