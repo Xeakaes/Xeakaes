@@ -1,22 +1,31 @@
 <div align="center">
-
-<img src="./assets/panel-hero.svg" alt="Xeakaes — medical student and hobbyist developer. 4 public projects, 22 stars, 3 languages." width="100%">
-
+  <img src="assets/banner.png" alt="Obscrum — Software Developer" width="100%" />
 </div>
 
-&nbsp;
+# Obscrum
 
-<a href="https://github.com/Xeakaes/PcHWmonitor">
-  <img src="./assets/mod-01-pchwmonitor.svg" alt="PC HW Monitor — real-time CPU, GPU, iGPU and RAM telemetry streamed over local Wi-Fi to a Jetpack Compose dashboard. Kotlin, Compose, FastAPI. AGPL-3.0. 14 stars." width="100%">
+Software developer building computer-use capabilities for AI agents, GPU-accelerated simulation software, and real-time hardware telemetry tools. Working primarily in Python, Kotlin, and C++.
+
+Currently exploring agent orchestration protocols (MCP). Open to professional collaborations and challenging engineering problems.
+
+<a href="mailto:kaanturan4206@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-3a4451?style=flat-square&logo=maildotru&logoColor=e6ebf2" alt="Email" />
 </a>
 
-<a href="https://github.com/Xeakaes/AeroVision-CFD"><img src="./assets/mod-02-aerovision.svg" alt="AeroVision CFD — modular wind-tunnel simulator with a Chorin projection Navier–Stokes solver, LES/RANS turbulence and CuPy GPU fallback. Python, PyQt6, PyVista. GPL-3.0. 6 stars." width="59.2%"></a><!--
---><a href="https://github.com/Xeakaes/computer-use-for-all-agents"><img src="./assets/mod-03-computer-use.svg" alt="Computer Use for All Agents — live screen perception plus safety-gated mouse, keyboard and window control for any agent. Python, MCP. MIT." width="39.4%"></a>
+## Featured Projects
 
-<a href="https://github.com/Xeakaes/dlss5-nr-pre-upscale">
-  <img src="./assets/mod-04-dlss5.svg" alt="DLSS 5 Neural Rendering Pre-Upscale — a ReShade add-on that runs Neural Rendering at render resolution, before the upscaler. C++, D3D11, D3D12." width="100%">
-</a>
+| | |
+| --- | --- |
+| <a href="https://github.com/Xeakaes/computer-use-for-all-agents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeakaes&repo=computer-use-for-all-agents&theme=graywhite" alt="computer-use-for-all-agents" /></a> | <a href="https://github.com/Xeakaes/PcHWmonitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeakaes&repo=PcHWmonitor&theme=graywhite" alt="PcHWmonitor" /></a> |
+| <a href="https://github.com/Xeakaes/AeroVision-CFD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeakaes&repo=AeroVision-CFD&theme=graywhite" alt="AeroVision-CFD" /></a> | <a href="https://github.com/Xeakaes/dlss5-nr-pre-upscale"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeakaes&repo=dlss5-nr-pre-upscale&theme=graywhite" alt="dlss5-nr-pre-upscale" /></a> |
 
-&nbsp;
+## GitHub Statistics
 
-<img src="./assets/panel-footer.svg" alt="Open to collaboration on computational, graphics and systems work — github.com/Xeakaes" width="100%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeakaes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Xeakaes&hide_border=false&background=FFFFFF&border=DDDDDD&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=999999&locale=en" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="assets/footer-pill.png" alt="Thanks for visiting" width="320" />
+</div>
