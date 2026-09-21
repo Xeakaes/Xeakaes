@@ -16,14 +16,20 @@ Currently exploring agent orchestration protocols (MCP). Open to professional co
 
 | | |
 | --- | --- |
-| <a href="https://github.com/Xeakaes/computer-use-for-all-agents"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=computer-use-for-all-agents&theme=graywhite" alt="computer-use-for-all-agents" /></a> | <a href="https://github.com/Xeakaes/PcHWmonitor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=PcHWmonitor&theme=graywhite" alt="PcHWmonitor" /></a> |
-| <a href="https://github.com/Xeakaes/AeroVision-CFD"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=AeroVision-CFD&theme=graywhite" alt="AeroVision-CFD" /></a> | <a href="https://github.com/Xeakaes/dlss5-nr-pre-upscale"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=dlss5-nr-pre-upscale&theme=graywhite" alt="dlss5-nr-pre-upscale" /></a> |
+| <a href="https://github.com/Xeakaes/computer-use-for-all-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=computer-use-for-all-agents&title_color=e6edf3&text_color=9ca3af&icon_color=e6edf3&bg_color=0d1117&border_color=30363d&v=5" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=computer-use-for-all-agents&theme=graywhite&v=5" alt="computer-use-for-all-agents" /></picture></a> | <a href="https://github.com/Xeakaes/PcHWmonitor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=PcHWmonitor&title_color=e6edf3&text_color=9ca3af&icon_color=e6edf3&bg_color=0d1117&border_color=30363d&v=5" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=PcHWmonitor&theme=graywhite&v=5" alt="PcHWmonitor" /></picture></a> |
+| <a href="https://github.com/Xeakaes/AeroVision-CFD"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=AeroVision-CFD&title_color=e6edf3&text_color=9ca3af&icon_color=e6edf3&bg_color=0d1117&border_color=30363d&v=5" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=AeroVision-CFD&theme=graywhite&v=5" alt="AeroVision-CFD" /></picture></a> | <a href="https://github.com/Xeakaes/dlss5-nr-pre-upscale"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=dlss5-nr-pre-upscale&title_color=e6edf3&text_color=9ca3af&icon_color=e6edf3&bg_color=0d1117&border_color=30363d&v=5" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Xeakaes&repo=dlss5-nr-pre-upscale&theme=graywhite&v=5" alt="dlss5-nr-pre-upscale" /></picture></a> |
 
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xeakaes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Xeakaes&hide_border=false&background=FFFFFF&border=DDDDDD&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=999999&locale=en" alt="GitHub Streak" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Xeakaes&show_icons=true&include_all_commits=true&count_private=true&title_color=e6edf3&text_color=9ca3af&icon_color=e6edf3&bg_color=0d1117&border_color=30363d&v=5" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xeakaes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&v=5" alt="GitHub Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Xeakaes&background=0d1117&border=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=9ca3af&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6e7681&locale=en" />
+    <img src="https://streak-stats.demolab.com?user=Xeakaes&hide_border=false&background=FFFFFF&border=DDDDDD&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=999999&locale=en" alt="GitHub Streak" height="165" />
+  </picture>
 </div>
 
 <div align="center">
